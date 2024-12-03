@@ -17,4 +17,4 @@ git clone https://github.com/Hackerpoorna/voting-system.git
 cd voting-system
 
 Team Members
-V. Poorna Chandra - @Hackerpoorna - Team Member
+V. Poorna Chandra - [@Hackerpoorna](https://github.com/Hackerpoorna) - Team Member
